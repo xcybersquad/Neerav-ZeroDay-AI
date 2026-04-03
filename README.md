@@ -3,6 +3,16 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-VAPT-green)
 ![VAPT](https://img.shields.io/badge/VAPT-Automation-orange)
 
+<img width="1536" height="1024" alt="ai zeroday" src="https://github.com/user-attachments/assets/656e5e41-dd6b-41a8-8f6b-c8cdfadbe7df" />
+
+
+## 🚀 Future Scope
+
+- Autonomous AI Red Team
+- Real-time threat intelligence
+- Dark web monitoring
+- MITRE ATT&CK mapping
+
 
 # 🚀 AI VAPT Zero-Day Detection Tool
 
