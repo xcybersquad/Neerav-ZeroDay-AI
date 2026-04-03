@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI](https://img.shields.io/badge/AI-Powered-red)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-VAPT-green)
+![VAPT](https://img.shields.io/badge/VAPT-Automation-orange)
+
+
 # 🚀 AI VAPT Zero-Day Detection Tool
 
 An AI-powered VAPT framework that automates:
@@ -38,8 +44,16 @@ python app.py
 
 <img width="819" height="515" alt="image" src="https://github.com/user-attachments/assets/86f99261-6ea1-4945-8536-4abfc8f3602f" />
 
+
 <img width="821" height="521" alt="image" src="https://github.com/user-attachments/assets/d914b58f-be11-407f-a00b-155ce2db2ee6" />
 
 <img width="820" height="524" alt="image" src="https://github.com/user-attachments/assets/4d153f5c-2c55-4ae7-b0e6-aacdeceded1d" />
 
+
+## 🧠 Architecture
+
+User Input → Crawler → Payload Generator → Fuzzer → ML Model → Detection Engine → Report
+
+                ↓
+             OSINT + Infra Scan
 
